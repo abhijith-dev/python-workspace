@@ -31,6 +31,17 @@ def maxSalaryEmp():
     lst=list(filter(lambda x:x.salary==max_salary,lst_emp))
     for emp in lst:
         emp.show_info()
+def showEmpCountByDeptName():
+    pass
+def showTotalSalByDeptName():
+    pass
+def showEmpCountByQual():
+    pass
+
+
+
+
+
 load_emp()
 print("all department names:")
 showDeptName()

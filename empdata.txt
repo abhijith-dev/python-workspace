@@ -1,0 +1,10 @@
+1,tara,M.tech,34000,cse
+2,tarun,M.tech,20000,cse
+3,sneha,B.tech,30000,ise
+4,parul,B.Tech,48000,ece
+5,anu,M.Tech,56000,ece
+6,darsh,Ph.d,600000,ise
+7,aish,Ph.d,700000,ise
+8,chethu,M.Tech,45000,cse
+9,sush,B.tech,64000,ise
+10,rach,M.tech,82000,ise
